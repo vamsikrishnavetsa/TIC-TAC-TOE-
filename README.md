@@ -20,3 +20,6 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 git clone https://github.com/vamsikrishnavetsa/TIC-TAC-TOE-.git
 cd TIC-TAC-TOE-
 open index.html in your browser
+![image](https://github.com/user-attachments/assets/72f8f295-84c9-4f83-b3d9-4c0daf727185)
+![image](https://github.com/user-attachments/assets/9a47495c-6ca3-4a0e-bc28-7538187c15ca)
+
